@@ -1,0 +1,22 @@
+1. создать массив объектов, содержащие:
+
+city:название города
+area:площадь объекта
+duration: сроки ремонта
+price: стоимость
+link:ссылка на картинку
+
+2. создать переменные и привязать их к:
+a. главной картинке id="completed_image"
+b. ссылкам над главной картинкой id='completed_citylink_#'
+c. 
+
+
+для точек и ссылок 
+массив из переменных
+
+[ Element1, Element2 ].forEach(function(element) {
+   element.addEventListener("input", function() {
+      this function does stuff
+   });
+});
