@@ -1,1 +1,1 @@
-In this code was realized slider by javascript wich change image and some discription about flat rebuild style
+In this code i realized slider by javascript witch change images and some discriptions about flat rebuild style
